@@ -7,7 +7,7 @@ first you would add the account details in config.ini file
 
 then install dependancies by running the commands
  ```
- pip instal pipenv
+ pip install pipenv
  pipenv --three
  pipenv install
  pipenv shell
